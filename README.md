@@ -1,2 +1,2 @@
-# Examples of all these topics
+#example of XHR Object Method
 
